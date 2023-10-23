@@ -16,7 +16,7 @@ body {
 }
 
 input[type="password"] {
-    width: 100%;
+    width: 95%;
     padding: 10px;
     margin: 10px 0;
 }
