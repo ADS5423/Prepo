@@ -1,3 +1,4 @@
+
 function checkPassword() {
     var password = document.getElementById("password").value;
 
