@@ -7,12 +7,14 @@ body {
 }
 
 .toggle-button {
-    background-color: #4b4b4b;
-    color: rgb(255, 255, 255);
+    background-color: #414141;
+    color: rgb(247, 245, 245);
     padding: 10px;
-    border: 2px solid #afafaf;
     cursor: pointer;
-    border-radius: 5px;
+    border: 5px solid #f3f1f1;
+    border-radius: 45x;
+    width: 34.6%;
+    height: 45.5px;
 }
   
 .expandable-content {
@@ -22,18 +24,18 @@ body {
 .container {
     background-color: rgb(253, 253, 253);
     max-width: 400px;
-    margin: 100px auto;
-    padding: 20px;
-    border: 1px solid #ffffff;
-    border-radius: 10px;
+    margin: 150px auto;
+    padding: 25px;
+    border: 5px solid #ffffff;
+    border-radius: 35px;
     box-shadow: 0 0 10px rgba(89, 84, 84, 0.2);
 }
 
 input[type="password"] {
-    width: 95%;
+    width: 90%;
     padding: 10px;
-    margin: 10px 0;
-    border-radius: 50px;
+    margin: 5px 0;
+    border-radius: 25px;
 }
 
 button {
@@ -41,7 +43,7 @@ button {
     color: rgb(255, 255, 255);
     padding: 0.% 0.px;
     border: none;
-    border-radius: 3px;
+    border-radius: 100px;
     cursor: pointer;
 }
 
