@@ -6,7 +6,7 @@
 <p align="center">
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.youtube.com/channel/UCJP07olES7OlZn2NdatcCew">
-       <img height="24px" src="https://www.youtube.com/favicon.ico" />
+       <img height="24px" src="https://raw.githubusercontent.com/JakeDev098/CorgiFiles/main/Images/YTicon.png" />
    </a>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/JakeDev098">
