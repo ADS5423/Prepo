@@ -9,24 +9,13 @@
        <img height="24px" src="https://raw.githubusercontent.com/JakeDev098/CorgiFiles/main/Images/YTicon.png" />
    </a>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/JakeDev098">
+   <a href="https://github.com/G047">
        <img height="24px" src="https://github.com/favicon.ico" />
    </a>
    <br>
-    A repository by JakeDev098
+    A repository by JakeDev098/G047
 </p>
 
 ##  About
 
-CorgiFiles is a website developed by "Jakedev098" used to provide download links for different programs. It is requested that if the code is seen, it is not shared so that we can continue with the project, and you can also use it.
-
-<p align="center">
-  <picture>
-    <source
-      width="256px"
-      srcset="Images/Corgi_1.png"
-    >
-    <img 
-      src="Images/Corgi_1.png"
-    >
-</p>
+CorgiFiles is a website developed by "Jakedev098/G047" used to provide download links for different programs. It is requested that if the code is seen, it is not shared so that we can continue with the project, and you can also use it.
