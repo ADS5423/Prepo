@@ -9,7 +9,7 @@
        <img height="24px" src="https://raw.githubusercontent.com/JakeDev098/CorgiFiles/main/Images/YTicon.png" />
    </a>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/G047">
+   <a href="https://github.com/JakeDev098">
        <img height="24px" src="https://github.com/favicon.ico" />
    </a>
    <br>
